@@ -5,3 +5,4 @@ metadata:
   namespace: awx
 spec:
   service_type: clusterip
+  image_version: 21.9.0
