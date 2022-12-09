@@ -5,6 +5,6 @@ metadata:
   namespace: awx
 spec:
   image: quay.io/ansible/awx
-  image_version: 21.8.0
+  image_version: 21.10.0
   ingress_type: ingress
   hostname: awx.ocd.lan
